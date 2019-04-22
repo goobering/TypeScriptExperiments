@@ -1,0 +1,1 @@
+{"version":3,"file":"AwsDetails.js","sourceRoot":"","sources":["../../../src/Constants/AwsDetails.ts"],"names":[],"mappings":";;AAAA,IAAM,OAAO,GAAG;IACZ,KAAK,EAAE;QACH,MAAM,EAAE,WAAW;QACnB,QAAQ,EAAE,uBAAuB;KACpC;IACD,MAAM,EAAE;QACJ,MAAM,EAAE,WAAW;QACnB,QAAQ,EAAE,yCAAyC;KACtD;CACJ,CAAC;AAEF,kBAAe,OAAO,CAAC"}
